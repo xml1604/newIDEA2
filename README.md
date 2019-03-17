@@ -2,10 +2,11 @@
 Java web从入门到精通
 ·遇到的问题：不理解什么是servlet
 ·项目能跑通代码点不理解
-·安装问题，配置成功tomcat之后，用eclipse打开网页会404（待解决）
+·安装问题，配置成功tomcat之后，用eclipse打开网页会404（待解决）——解决方案：安装了myeclipse；猜想可能没运行到指定的网站
 ·安装问题，IDEA版本问题，是免费版还是完整版，免费版不能进行web开发（已解决）
 ·架构问题，选择JavaEE框架还是Spring MVC框架，经多方调研得知如今流行springmvc和springboot
 ·了解JavaEE的主要技术
+·数据库连接问题
 
 各组员采用的开发版本：
   Wang:
