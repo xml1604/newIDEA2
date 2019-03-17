@@ -74,6 +74,7 @@ Java web从入门到精通
 
    ·后端组学习Spring MVC框架，数据库部分
 https://cloud.tencent.com/developer/article/1100074
+目前xie学习的是java客户机服务器的模型，wang学习数据库的部分。
 第六节 mysql
 
 1-MySql概述
