@@ -7,6 +7,8 @@ Java web从入门到精通
 ·架构问题，选择JavaEE框架还是Spring MVC框架，经多方调研得知如今流行springmvc和springboot
 ·了解JavaEE的主要技术
 ·数据库连接问题
+·wang&zhong :打开项目发现https://github.com/ni-ze/ssm-BookAppointment有java版本什么的错误，他说好像跟什么xml文件有关
+
 
 各组员采用的开发版本：
   Wang:
