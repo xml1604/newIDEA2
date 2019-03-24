@@ -8,6 +8,20 @@ Java web从入门到精通
 ·了解JavaEE的主要技术
 ·数据库连接问题
 ·wang&zhong :打开项目发现https://github.com/ni-ze/ssm-BookAppointment有java版本什么的错误，他说好像跟什么xml文件有关
+·xie:重新安装了exe安装版本的汤姆猫，所以建议小白还是安装这个版本的。
+·运行时8080端口被占用：两条指令即可解决，成功运行第一个web项目。
+  1、C:\Windows\system32>netstat -ano|findstr 8080
+  2、TCP    0.0.0.0:8080           0.0.0.0:0              LISTENING       5048
+
+  TCP    10.236.168.120:50297   117.144.244.65:8080    ESTABLISHED     4744
+
+  TCP    10.236.168.120:50674   183.192.192.163:8080   ESTABLISHED     9336
+
+  TCP    [::]:8080              [::]:0                 LISTENING       5048
+  C:\Windows\system32>taskkill /pid 5048 /f
+  
+
+成功: 已终止 PID 为 5048 的进程。
 
 
 各组员采用的开发版本：
